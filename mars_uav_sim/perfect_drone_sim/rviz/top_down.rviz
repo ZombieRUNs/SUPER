@@ -141,7 +141,7 @@ Visualization Manager:
           Channel Name: intensity
           Class: rviz/PointCloud2
           Color: 136; 138; 133
-          Color Transformer: FlatColor
+          Color Transformer: AxisColor
           Decay Time: 0
           Enabled: true
           Invert Rainbow: false
@@ -152,8 +152,8 @@ Visualization Manager:
           Queue Size: 10
           Selectable: true
           Size (Pixels): 2
-          Size (m): 0.009999999776482582
-          Style: Points
+          Size (m): 0.10000000149011612
+          Style: Flat Squares
           Topic: /global_pc
           Unreliable: false
           Use Fixed Frame: false
